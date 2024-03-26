@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
               e[r] || ((n = e[r] = function () {
               n.process ? n.process.apply(n, arguments) : n.queue.push(arguments)
               }).queue = [], n.t = +new Date, (a = t.createElement(p)).async = 1, a.src = "https://cdn.tracking.prepr.io/js/prepr_v2.min.js?t=" + 864e5 * Math.ceil(new Date / 864e5), (s = t.getElementsByTagName(p)[0]).parentNode.insertBefore(a, s))
-              }(window, document, "script", "prepr"), prepr("init", "1270b7375b273aef5f142cdfb4aa94ab2bbde62cefeb61857daf7bb4fff68755"), prepr("event", "pageload");`,
+              }(window, document, "script", "prepr"), prepr("init", "5831891e8cbea1203aff05d250c681c558b965b8667b4afc750feb7f1189da0e"), prepr("event", "pageload");`,
           }}
         />
       </head>
